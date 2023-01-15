@@ -1,4 +1,4 @@
-# ![Dawn of Ragnarok](https://i.imgur.com/Vkf9BZ5.png)
+# ![Dawn of Ragnarok](https://i.imgur.com/tA3Del0.png)
 
 ## ⚠ Requires [CitResewn](https://modrinth.com/mod/cit-resewn) or [Optifine](https://www.optifine.net/home) in order to work
 
